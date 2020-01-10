@@ -14,7 +14,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.TileDragAndDropManager
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -22,7 +21,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     com.unity.multiplayer-hlapi.Runtime.dll:
-    - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
   sceneClasses:
     Assets/ML-Agents/Examples/3DBall/Scenes/3DBall.unity:
@@ -1042,4 +1040,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/ML-Agents/Examples/3DBall/Scenes/3DBall.unity
-  playerPath: E:/Game Development/ml-agents/ml-agents/Unity Environment.exe
+  playerPath: C:/Users/jlava/OneDrive/Documents/GitHub/ml-agents/ml-agents/Ball.exe
