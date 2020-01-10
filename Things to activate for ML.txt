@@ -1,0 +1,7 @@
+conda activate tensorflow-gpu
+conda deactivate
+
+
+cd C:\Users\jlava\OneDrive\Documents\GitHub\ml-agents\ml-agents
+conda activate ml-agents
+mlagents-learn ../config/sac_trainer_config.yaml --env=squirrel --run-id=firstRun --train --time-scale=100

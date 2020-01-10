@@ -63,6 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CourseworkFiles\Scripts\SquirrelAcademy.cs" />
+    <Compile Include="Assets\CourseworkFiles\Scripts\SquirrelAgent.cs" />
+    <Compile Include="Assets\CourseworkFiles\Scripts\SquirrelArea.cs" />
+    <Compile Include="Assets\CourseworkFiles\Scripts\SquirrelFoodLogic.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAcademy.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DAgent.cs" />
     <Compile Include="Assets\ML-Agents\Examples\3DBall\Scripts\Ball3DHardAgent.cs" />
